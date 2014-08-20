@@ -1,5 +1,4 @@
 <?php
-require_once __DIR__ . '/../../vendor/autoload.php'; // Autoload files using Composer autoload
 
 class SayHelloTest extends PHPUnit_Framework_TestCase
 {
